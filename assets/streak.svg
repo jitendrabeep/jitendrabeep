@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <rect x="0.5" y="0.5" rx="6" width="494" height="194" fill="#14213D" stroke="#243354" stroke-width="1.2"/>
+  <g transform="translate(20, 25)">
+    <!-- Column 1 -->
+    <text x="50" y="25" font-family="'Space Grotesk', Inter, sans-serif" font-weight="600" font-size="12" fill="#A3AEC4" text-anchor="middle">TOTAL COMMITS</text>
+    <text x="50" y="65" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="26" fill="#F4EDE0" text-anchor="middle">Active</text>
+    <text x="50" y="100" font-family="Inter, sans-serif" font-size="11" fill="#7E8DAA" text-anchor="middle">All Repositories</text>
+
+    <!-- Column 2 (Center Ring) -->
+    <circle cx="225" cy="55" r="38" stroke="#0C1424" stroke-width="4.5" fill="none"/>
+    <circle cx="225" cy="55" r="38" stroke="#FF6B5B" stroke-width="4.5" stroke-dasharray="190 240" stroke-linecap="round" fill="none"/>
+    <text x="225" y="62" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="20" fill="#FF6B5B" text-anchor="middle">Live</text>
+    <text x="225" y="112" font-family="'Space Grotesk', Inter, sans-serif" font-weight="600" font-size="12" fill="#F4EDE0" text-anchor="middle">Current Streak</text>
+
+    <!-- Column 3 -->
+    <text x="400" y="25" font-family="'Space Grotesk', Inter, sans-serif" font-weight="600" font-size="12" fill="#A3AEC4" text-anchor="middle">CONSISTENCY</text>
+    <text x="400" y="65" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="26" fill="#F4EDE0" text-anchor="middle">Daily</text>
+    <text x="400" y="100" font-family="Inter, sans-serif" font-size="11" fill="#7E8DAA" text-anchor="middle">Engineering Cadence</text>
+  </g>
+</svg>
